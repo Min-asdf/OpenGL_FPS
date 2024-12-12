@@ -1,0 +1,11 @@
+﻿  GlobalVariables.cpp
+  Main.cpp
+C:\Users\min\source\repos\FPSOpenGL\FPSOpenGL\Main.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'GL/freeglut.h': No such file or directory
+  ParticleSystem.cpp
+C:\Users\min\source\repos\FPSOpenGL\FPSOpenGL\ParticleSystem.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'GL/freeglut.h': No such file or directory
+  RayCaster.cpp
+  (소스 파일 'ParticleSystem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\min\source\repos\FPSOpenGL\FPSOpenGL\ParticleSystem.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'GL/freeglut.h': No such file or directory
+  (소스 파일 'RayCaster.cpp'을(를) 컴파일하는 중)
+  
